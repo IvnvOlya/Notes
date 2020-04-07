@@ -57,10 +57,6 @@ export default class NoteListItem extends Component {
                     onClick={this.onImportant}></i>
                 </button>
     
-                <button type="button"
-                        className="btn btn-outline-success btn-sm float-right">
-                    <i className='fa fa-pencil'></i>
-                </button>  
 
             </span>   
         );
